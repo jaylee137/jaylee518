@@ -22,7 +22,7 @@ I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Djan
 
 Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
 
-I had already built so many Websites with the mentioned skill.
+I had already built many Websites with the mentioned skill.
 
 <br />
 
