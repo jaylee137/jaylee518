@@ -1,25 +1,3 @@
-<p align="center">
-  <a href="https://github.com/jMax-518"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer!;Blockchain%20Developer&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
-</p>
-<p align="center">
-  <img src="akudama-drive-anime_4.1.gif" />
-</p>
-<p align="center">
- 💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
- Let's go beyond our limits<br>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fullstack-WEB-Blockchain-Developer&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
-
- ![](./profile-3d-contrib/profile-night-view.svg)
-<!-- 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p> -->
-
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
