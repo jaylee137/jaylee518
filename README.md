@@ -2,7 +2,7 @@
 
   <br />
   
-  Hi, I'm a Full-Stack Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm a Software Engineer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
 I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
 
