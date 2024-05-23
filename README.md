@@ -15,10 +15,10 @@ I had already built many Projects with the mentioned skills.
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <div align="center">
 <!-- website -->
+     <a href="https://jMax-518.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a>
     <a href="mailto:jaylee.watcher@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
     <a href="https://join.skype.com/invite/sHHeNHnZmDQD"><img alt="Skype badge" src="https://img.shields.io/badge/-Skype-EC8B00?logo=Skype&logoColor=white">
     </a>
-   <a href="https://jMax-518.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white" /></a>
     <a href="https://t.me/jMax518"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
     <a><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>    
