@@ -27,7 +27,6 @@ I had already built many Websites with the mentioned skill.
     <a href="mailto:asahide0026@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br/>
-
   ### TECHNOLOGY
 
 <table align="center">
