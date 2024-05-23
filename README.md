@@ -231,8 +231,8 @@ I had already built many Projects with the mentioned skills.
 <h2></h2>
 
 <h2> ⚡ Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
-  <br/>
 <div align="center">
+  <br/>
 <!-- website -->
      <a href="https://jmax-518.github.io" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a>
     <a href="mailto:jaylee.watcher@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
