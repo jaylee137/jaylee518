@@ -6,15 +6,11 @@
   
   I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | AI/ML
-
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
-I have developing sites using React, Nextjs, Vue, Angular, Laravel, WordPress, and Python/Django, and much more.
+I have developing Web and Mobile Apps using React, React Native, Flutter, Nextjs, Vue, Angular, Laravel, WordPress, and Python/Django, and much more.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
-
-I had already built many Websites with the mentioned skill.
+I had already built many Projects with the mentioned skills.
 <br />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <div align="center">
