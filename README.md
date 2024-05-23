@@ -18,10 +18,6 @@ I had already built many Websites with the mentioned skill.
 
 <br />
 
- <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-</div>
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <div align="center">
 <!-- website -->
@@ -32,6 +28,7 @@ I had already built many Websites with the mentioned skill.
     <a href="https://join.slack.com/t/webdevelopmentcenter/shared_invite/zt-28kgyxiqr-PPEkmi~g4ir8syb1xK6zXg"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>    
     <a href="mailto:asahide0026@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
+<br/>
 
 **Languages and Tools:**
 
