@@ -2,9 +2,9 @@
 
   <br />
   
-  Hi, I'm a Software Engineer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm a Software Engineer, with outstanding experience in various fields, such as Web and Mobile, Cryptocurrency and AI/ML.
 
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
+I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | AI/ML
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
