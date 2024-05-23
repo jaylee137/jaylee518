@@ -230,7 +230,7 @@ I had already built many Projects with the mentioned skills.
 </table>
 <h2></h2>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <div align="center">
 <!-- website -->
      <a href="https://jmax-518.github.io" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a>
@@ -238,8 +238,9 @@ I had already built many Projects with the mentioned skills.
     <a href="https://join.skype.com/invite/sHHeNHnZmDQD"><img alt="Skype badge" src="https://img.shields.io/badge/-Skype-EC8B00?logo=Skype&logoColor=white">
     </a>
     <a href="https://t.me/jMax518"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>   
-   
 </div>
+</h2>
+
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
