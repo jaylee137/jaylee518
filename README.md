@@ -14,7 +14,7 @@ I had already built many Projects with the mentioned skills.
 <br />
 <br />
 
-## ⚡ My Technologies
+## ⚡ My Skills
 <table align="center">
   
 <tr>
