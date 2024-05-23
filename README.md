@@ -2,7 +2,8 @@
 
   <br />
   
-  Hi, I'm a Software Engineer, with outstanding experience in various fields, such as Web and Mobile, Cryptocurrency and AI/ML.
+  Hi, I'm a Software Engineer, with outstanding experience in various fields, such as Web and Mobile, Cryptocurrency and Artifitial Intelligence.
+  I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
 I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | AI/ML
 
