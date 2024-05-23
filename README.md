@@ -1,4 +1,4 @@
-# Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
   
@@ -231,6 +231,7 @@ I had already built many Projects with the mentioned skills.
 <h2></h2>
 
 <h2> ⚡ Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+  <br/>
 <div align="center">
 <!-- website -->
      <a href="https://jmax-518.github.io" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a>
