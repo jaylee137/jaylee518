@@ -26,7 +26,7 @@ I had already built many Websites with the mentioned skill.
     <a href="https://join.slack.com/t/webdevelopmentcenter/shared_invite/zt-28kgyxiqr-PPEkmi~g4ir8syb1xK6zXg"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>    
     <a href="mailto:asahide0026@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
-<br/>
+
   ### TECHNOLOGY
 
 <table align="center">
