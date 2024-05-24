@@ -230,6 +230,12 @@ I had already built many Projects with the mentioned skills.
 </table>
 <h2></h2>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=messiisgreat&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage,Reviews" alt="Followers, Commits, Stars, Repositories, PullRequest">
+</p>
+
 <h2> ⚡ Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 <div align="center">
 <!-- website -->
