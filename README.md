@@ -12,7 +12,6 @@ I have developing Web and Mobile Apps using React, Nextjs, Vue, Angular, Laravel
 
 I had already built many Projects with the mentioned skills.
 <br />
-<br />
 
 ## ⚡ My Skills
 <table align="center">
