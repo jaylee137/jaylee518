@@ -10,14 +10,6 @@ I'm passionate about creating impactful solutions and have the ability to build 
 
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
-
-I developed Web and Mobile Apps using React, Nextjs, Vue, Angular, Laravel, WordPress, Python/Django, React Native, Flutter and much more.
-
-I had already built many Projects with the mentioned skills.
-
-
-
 <br />
 
 ## ⚡ My Skills
