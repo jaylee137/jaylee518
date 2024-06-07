@@ -10,7 +10,7 @@ I'm passionate about creating impactful solutions and have the ability to build 
 
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
 
-<p></p>
+<h2></h2>
 
 ## ⚡ My Skills
 <table align="center">
