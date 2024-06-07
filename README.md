@@ -45,16 +45,8 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <br>Angular
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" title="Phoenix" alt="Svelte " width="45" height="45"/>
-      <br>Svelte
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gatsby" width="45" height="45" alt="php" />
-      <br>Gatsby
     </td>
   </tr>
 <tr>
@@ -81,14 +73,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="php" />
       <br>Java
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="Laravel" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="php" />
-      <br>dotnet
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
@@ -132,14 +116,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=swift" width="45" height="45" alt="Flutter" />
-      <br>Swift
-    </td>
-        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=remix" width="45" height="45" alt="Flutter" />
-      <br>Remix
-    </td>
     </tr>
     <tr>
    <td align="center" width="90">
@@ -158,10 +134,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Laravel" />
       <br>Bootstrap
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="Styled" />
-      <br>Styled
-    </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
       <br>MySQL
@@ -173,10 +145,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="php" />
       <br>Mongo
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-      <br>SQLit
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="php" />
@@ -201,10 +169,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Flutter" />
-      <br>Vercel
-    </td> 
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Flutter" />
       <br>Nginx
     </td> 
@@ -219,11 +183,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="Flutter" />
       <br>FastAPI
-    </td> 
-       <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="figma" />
-      <br>Figma
-    </td> 
+    </td>  
   </tr>
 </table>
 <h2></h2>
