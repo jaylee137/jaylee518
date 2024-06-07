@@ -70,9 +70,9 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
       <br>WordPress
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="php" />
-      <br>Java
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+      <br>Django
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
@@ -92,10 +92,6 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
       <br>Python
     </td>
-        <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
-      <br>Django
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="Flutter" />
       <br>Tensorflow
@@ -104,37 +100,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="electron" />
       <br>Electron
       </td>
-      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="php" />
-      <br>Kotlin
-    </td>
-       <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
-    </td>
-    </tr>
-    <tr>
    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="Laravel" />
-      <br>MaterialUI
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sass" width="45" height="45" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="php" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Laravel" />
-      <br>Bootstrap
-    </td>
-     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
       <br>MySQL
     </td>
@@ -150,8 +116,8 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="php" />
       <br>GraphQL
     </td>
-     </tr>
-     <tr>
+    </tr>
+       <tr>
      <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
       <br>NFT
