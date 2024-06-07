@@ -9,7 +9,7 @@ I have been exploring and researching blockchain, cryptography, AI/ML, and quant
 I'm passionate about creating impactful solutions and have the ability to build robust backends and user-friendly frontends.
 
 I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
-
+<br />
 ## ⚡ My Skills
 <table align="center">
   
