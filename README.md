@@ -59,8 +59,8 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
+      <img src="https://skillicons.dev/icons?i=android" width="45" height="45" alt="android" />
+      <br>Android
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
