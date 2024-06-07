@@ -59,7 +59,7 @@ I prioritize client satisfaction over earnings, which is why I focus on deliveri
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=android" width="45" height="45" alt="android" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="android" />
       <br>Android
     </td>
     <td align="center" width="90">
