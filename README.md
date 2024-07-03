@@ -2,13 +2,10 @@
 
   <br />
   
-  Hi, I'm a Software Engineer, with outstanding experience in various fields, such as Web and Mobile, Cryptocurrency and Artifitial Intelligence.
-
-I have been exploring and researching blockchain, cryptography, AI/ML, and quantum computing for a long time.
-
-I'm passionate about creating impactful solutions and have the ability to build robust backends and user-friendly frontends.
-
-I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
+Software Engineer with expertise in full-stack development, blockchain technology, and artificial intelligence. 
+With over 8 years of experience, I have a proven track record of optimizing processes, reducing costs, and enhancing operational efficiency. 
+Proficient in a wide array of programming languages and technologies, I bring a strong work ethic and a drive to deliver innovative solutions. 
+Eager to contribute to cutting- edge projects that align with a company's mission for technology advancement and excellence.
 
 <br />
 
