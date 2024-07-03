@@ -6,7 +6,7 @@ Software Engineer with expertise in full-stack development, blockchain technolog
 
 With over 8 years of experience, I have a proven track record of optimizing processes, reducing costs, and enhancing operational efficiency.   <br />
 
-Eager to contribute to cutting- edge projects that align with a company's mission for technology advancement and excellence.
+Eager to contribute to cutting-edge projects that align with a company's mission for technology advancement and excellence.
 
 <br />
 
