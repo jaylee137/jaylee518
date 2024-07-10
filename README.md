@@ -57,10 +57,6 @@ Eager to contribute to cutting-edge projects that align with a company's mission
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
     </td>
@@ -72,39 +68,9 @@ Eager to contribute to cutting-edge projects that align with a company's mission
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
       <br>Django
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
-      <br>Go
-    </td>
-     </tr>
-  <tr>
-      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="php" />
-      <br>AI
-    </td>
-        <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="Flutter" />
-      <br>Tensorflow
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="electron" />
-      <br>Electron
-      </td>
-   <td align="center" width="90">
+ <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
       <br>MySQL
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="postgres" />
-      <br>Postgre
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="php" />
@@ -114,7 +80,7 @@ Eager to contribute to cutting-edge projects that align with a company's mission
       <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="php" />
       <br>GraphQL
     </td>
-    </tr>
+     </tr>
        <tr>
      <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
@@ -133,9 +99,9 @@ Eager to contribute to cutting-edge projects that align with a company's mission
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Flutter" />
-      <br>Nginx
-    </td> 
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
+      <br>Go
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="Flutter" />
       <br>AWS
