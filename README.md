@@ -2,10 +2,9 @@
 
   <br />
   
-Software Engineer with expertise in full-stack development, blockchain technology, and artificial intelligence.   <br />
-
-With over 8 years of experience, I have a proven track record of optimizing processes, reducing costs, and enhancing operational efficiency.   <br />
-
+Dynamic full-stack developer with over 8 years of expertise in front-end and back-end and blockchain technology.    <br />
+Proficient in all SDLC phases, including requirements gathering, analysis, design, implementation, maintenance, and testing. <br />
+Highly motivated and results-driven, with a strong work ethic and a passion for delivering innovative solutions. <br />
 Eager to contribute to cutting-edge projects that align with a company's mission for technology advancement and excellence.
 
 <br />
