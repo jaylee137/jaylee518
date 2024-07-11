@@ -64,6 +64,10 @@ Proficient in a wide array of programming languages and technologies, I bring a 
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
       <br>WordPress
     </td>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
       <br>Django
@@ -75,10 +79,6 @@ Proficient in a wide array of programming languages and technologies, I bring a 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="php" />
       <br>Mongo
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="php" />
-      <br>GraphQL
     </td>
      </tr>
        <tr>
@@ -103,8 +103,8 @@ Proficient in a wide array of programming languages and technologies, I bring a 
       <br>Go
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="Flutter" />
+      <br>AWS
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
