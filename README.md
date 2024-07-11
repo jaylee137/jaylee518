@@ -2,7 +2,7 @@
 
   <br />
   
-Dynamic Full-stack developer with expertise in front-end and back-end and blockchain technology. <br />
+Dynamic full-stack developer with expertise in front-end and back-end and blockchain technology. <br />
 
 With over 8 years of experience, I have a proven track record of optimizing processes, reducing costs, and enhancing operational efficiency. <br />
 
