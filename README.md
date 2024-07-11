@@ -2,11 +2,13 @@
 
   <br />
   
-Dynamic full-stack developer with expertise in front-end and back-end and blockchain technology. <br />
+Resourceful blockchain/frontend developer with 8 years of experience in software engineering.  <br />
 
-With over 8 years of experience, I have a proven track record of optimizing processes, reducing costs, and enhancing operational efficiency. <br />
+Master of JavaScript, Golang, Rust, and Python. <br />
 
-Proficient in a wide array of programming languages and technologies, I bring a strong work ethic and a drive to deliver innovative solutions
+Extensive knowledge of smart contracts, consensus algorithms, and data structures.  <br />
+
+Excellent at agile development, integrating strong front-end and back-end technologies.  <br />
 
 <br />
 
