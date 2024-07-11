@@ -103,8 +103,8 @@ Proficient in a wide array of programming languages and technologies, I bring a 
       <br>Go
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="Flutter" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
