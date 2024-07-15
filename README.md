@@ -2,7 +2,7 @@
 
   <br />
   
-Blockchain/Frontend developer with 8 years of experience in software engineering.  
+I am a Blockchain/Frontend developer from Toronto with 8 years of experience in software engineering.  
 
 <br />
 
