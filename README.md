@@ -2,11 +2,7 @@
 
   <br />
   
-Resourceful blockchain/frontend developer with 8 years of experience in software engineering.  <br />
-
-Master of JavaScript, Golang, Rust, and Python. Extensive knowledge of smart contracts, consensus algorithms, and data structures.  <br />
-
-Excellent at agile development, integrating strong front-end and back-end technologies.  <br />
+Blockchain/Frontend developer with 8 years of experience in software engineering.  
 
 <br />
 
