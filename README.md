@@ -1,12 +1,4 @@
 
-     
-<div align="center">
-     <a href="https://jaylee518.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a>
-    <a href="mailto:jaylee.watcher@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white" /></a>
-    <a href="https://join.skype.com/invite/sHHeNHnZmDQD"><img alt="Skype badge" src="https://img.shields.io/badge/-Skype-EC8B00?logo=Skype&logoColor=white" /></a>
-    <a href="https://t.me/jaylee_518"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white" /></a>   
-</div>
-
 ## ⚡ My Skills
 <br />
 
@@ -115,6 +107,13 @@
   </tr>
 </table>
 <h2></h2>
+
+<div align="center">
+     <a href="https://jaylee518.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a>
+    <a href="mailto:jaylee.watcher@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white" /></a>
+    <a href="https://join.skype.com/invite/sHHeNHnZmDQD"><img alt="Skype badge" src="https://img.shields.io/badge/-Skype-EC8B00?logo=Skype&logoColor=white" /></a>
+    <a href="https://t.me/jaylee_518"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white" /></a>   
+</div>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
