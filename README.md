@@ -107,7 +107,7 @@
   </tr>
 </table>
 <h2></h2>
-
+<br />
 <div align="center">
      <a href="https://jaylee518.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a>
     <a href="mailto:jaylee.watcher@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white" /></a>
