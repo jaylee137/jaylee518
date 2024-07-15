@@ -2,6 +2,7 @@
 
 ## ⚡ My Skills
 <br />
+<h2></h2>
 
 <table align="center">
 <tr>
