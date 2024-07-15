@@ -115,6 +115,8 @@
     <a href="https://t.me/jaylee_518"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white" /></a>   
 </div>
 
+<h2></h2>
+
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 
