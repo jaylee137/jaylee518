@@ -1,9 +1,13 @@
-## Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-  <br />
-  
-I am a Blockchain/FullStack developer with 8 years of experience in software engineering.  
-
+<h2> ⚡ Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+<div align="center">
+<!-- website -->
+     <a href="https://jaylee518.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a>
+    <a href="mailto:jaylee.watcher@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
+    <a href="https://join.skype.com/invite/sHHeNHnZmDQD"><img alt="Skype badge" src="https://img.shields.io/badge/-Skype-EC8B00?logo=Skype&logoColor=white">
+    </a>
+    <a href="https://t.me/jaylee_518"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>   
+</div>
+  <h2></h2>
 <br />
 
 ## ⚡ My Skills
@@ -113,18 +117,6 @@ I am a Blockchain/FullStack developer with 8 years of experience in software eng
   </tr>
 </table>
 <h2></h2>
-
-<h2> ⚡ Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
-<div align="center">
-<!-- website -->
-     <a href="https://jaylee518.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a>
-    <a href="mailto:jaylee.watcher@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
-    <a href="https://join.skype.com/invite/sHHeNHnZmDQD"><img alt="Skype badge" src="https://img.shields.io/badge/-Skype-EC8B00?logo=Skype&logoColor=white">
-    </a>
-    <a href="https://t.me/jaylee_518"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>   
-</div>
-</h2>
-
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
