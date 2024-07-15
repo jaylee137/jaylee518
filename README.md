@@ -8,10 +8,9 @@
     </a>
     <a href="https://t.me/jaylee_518"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>   
 </div>
-<br />
 
 ## ⚡ My Skills
-
+<br />
 <table align="center">
   
 <tr>
